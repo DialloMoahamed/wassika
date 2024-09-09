@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: serif !important;
+}
+.card-title1{
+    background-color: #149ECD;
+    width: 5em;
+}
+.image{
+    margin-left: 7em;
+    background-size: cover;
+    border-radius: 10px;
+    gap: 3em;
+}
+.image img{
+    border-radius: 50%;
+    width: 3em;
+    height: 3em !important;
+    object-fit: cover;
+
+}
+.ivon{
+    margin-left: 34em;
+}
+.btn{
+    background-color: #149ECD !important;
+    color: #fff !important;
+    height: 3em !important;
+    border-radius: 20px !important;
+}
+.MHD{
+    background-color: #149ECD;
+    border-radius: 20px;
+    height: 45em;
+}
+.seconde{
+    width: 100%;
+    height: 50vh !important;
+    object-fit: cover;
+}
